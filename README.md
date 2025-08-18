@@ -1,13 +1,13 @@
 ![Header](https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/github-header-banner.png)
 
-<div align="center" style="vertical-align:bottom;">
-<a href="https://www.linkedin.com/in/kimberly-emerson/">
-  <img style="padding:0;margin:0" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/LI-In-Bug.png"/>
-</a>
-<a href="mailto:kimberly.emerson@outlook.com">
-  <img style="padding:0;margin:0" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/email.png"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kimberly-emerson/">
+    <img style="padding:0;margin:0;" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/LI-In-Bug.png"/>
   </a>
-  </div>
+  <a href="mailto:kimberly.emerson@outlook.com">
+    <img style="padding:0;margin:0;" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/email.png"/>
+    </a>
+</div>
 
 ## 👩‍💻 About Me
 
@@ -23,9 +23,19 @@
  </tr>
 </table>
 
+## 🧠 Fun Facts
+
+- I love reverse-engineering legacy systems and making them talk to modern APIs.
+- I believe good data engineering is invisible—until it breaks.
+- I’m always up for a challenge involving weird formats, broken schemas, or stubborn integrations.
+
 <a href="mailto:kimberly.emerson@outlook.com">
   <img style="padding:0;margin:0" height="30" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/yt_icon_red_digital.png"/>
 </a>
+
+## Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mvyyqmnzozgunauaghmgyuvyoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌟 Certification
 
@@ -80,12 +90,6 @@
 - 📝 **End-to-End Delivery**: Gathering requirements, documenting solutions, testing, and supporting production environments
 - 🌍 **Team Collaboration**: Thriving in both solo projects and global, cross-functional teams
 - 🎓 **Certified Expertise**: Microsoft SQL Server Certified since 2016
-
-## 🧠 Fun Facts
-
-- I love reverse-engineering legacy systems and making them talk to modern APIs.
-- I believe good data engineering is invisible—until it breaks.
-- I’m always up for a challenge involving weird formats, broken schemas, or stubborn integrations.
 
 ## 🎯 What I'm Looking For
 
