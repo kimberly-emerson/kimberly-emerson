@@ -27,16 +27,11 @@
  </tr>
 </table>
 
-## YouTube Channel
-
-<iframe width="560" height="315" src="https://youtu.be/qw8XOtzj3Y4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## 💚 Fun Facts
 
 - I love reverse-engineering legacy systems and making them talk to modern APIs.
-- I believe good data engineering is invisible—until it breaks.
+- I believe good data engineering is invisible.
 - I’m always up for a challenge involving weird formats, broken schemas, or stubborn integrations.
-
 
 ## 🎯 What I'm Looking For
 
