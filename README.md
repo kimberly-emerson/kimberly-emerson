@@ -52,7 +52,7 @@ I'm open to opportunities where I can:
 <img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/>
 </a>
 
-## 🛠️ Languages and Tools
+## #️⃣ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
