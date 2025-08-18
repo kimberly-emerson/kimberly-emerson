@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 <table border="0" cellspacing="0" cellpadding="0">
- <tr>
+ <tr style="background-color:lightblue">
     <td>
         <p>I'm a Data Engineer with 10+ years of experience in designing and delivering data engineering solutions that are reliable, scalable, and built to last. From REST APIs to data pipelines, I’ve helped teams turn raw data into actionable insights.</p>
         <p>I'm passionate about building APIs and microservices for data access and integration (Python, FastAPI, Flask) and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
