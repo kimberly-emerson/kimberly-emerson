@@ -11,13 +11,17 @@
 
 ## 👩‍💻 About Me
 
+> Strategic Data Engineer | API Architect | Automation Enthusiast
+
 <table border="0" cellspacing="0" cellpadding="0">
- <tr style="background-color:lightblue">
-    <td>
-        <p>I'm a Data Engineer with 10+ years of experience in designing and delivering data engineering solutions that are reliable, scalable, and built to last. From REST APIs to data pipelines, I’ve helped teams turn raw data into actionable insights.</p>
-        <p>I'm passionate about building APIs and microservices for data access and integration (Python, FastAPI, Flask) and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
+ <tr>
+    <td width="0%">
+        <p>I’m a <strong>Data Engineer</strong> with over a decade of experience designing and delivering robust, scalable, and future-proof data solutions. Whether it’s building REST APIs, architecting data pipelines, or enabling real-time analytics, I specialize in turning raw data into reliable, actionable insights that drive business impact.
+        </p>
+        <p>My passion lies in building APIs and microservices for seamless data access and integration, using tools like Python, FastAPI, Django, and Flask.</p>
+        <p>My goal is to evolve from a pipeline builder into a strategic architect of intelligent data systems—leveraging automation, orchestration, and AI to build platforms that scale with the future.</p>
     </td>
-    <td>
+    <td width="30%">
         <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
     </td>
  </tr>
