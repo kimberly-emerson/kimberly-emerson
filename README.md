@@ -11,11 +11,11 @@
 
 ## 👩‍💻 About Me
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td>
-        <p>With 10+ years of experience, I specialize in designing and delivering data engineering solutions that are reliable, scalable, and built to last. From REST APIs to ETL pipelines, I’ve helped teams turn raw data into actionable insights.</p>
-        <p>I'm a Data Engineer passionate about . I love building [types of projects] and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
+        <p>I'm a Data Engineer with 10+ years of experience in designing and delivering data engineering solutions that are reliable, scalable, and built to last. From REST APIs to data pipelines, I’ve helped teams turn raw data into actionable insights.</p>
+        <p>I'm passionate about building APIs and microservices for data access and integration (Python, FastAPI, Flask) and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
     </td>
     <td>
         <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
