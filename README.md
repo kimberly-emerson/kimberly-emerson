@@ -3,34 +3,29 @@
 <div align="center" style="vertical-align:bottom;">
 <a href="https://www.linkedin.com/in/kimberly-emerson/">
   <img style="padding:0;margin:0" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/LI-In-Bug.png"/>
-</a><a href="mailto:kimberly.emerson@outlook.com">
-  <img style="padding:0;margin:0" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/email.png"
-</div>
-<a href="mailto:kimberly.emerson@outlook.com">
-  <img style="padding:0;margin:0" height="30" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/yt_icon_red_digital.png"/>
 </a>
-</div>
+<a href="mailto:kimberly.emerson@outlook.com">
+  <img style="padding:0;margin:0" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/email.png"/>
+  </a>
+  </div>
 
 ## 👩‍💻 About Me
 
 <table border="0">
  <tr>
     <td>
-        <p>With 10+ years of experience, I specialize in designing and delivering backend data engineering solutions that are reliable, scalable, and built to last. From REST APIs to ETL pipelines, I’ve helped teams turn raw data into actionable insights.</p>
-
-  <p>I'm a Data Engineer passionate about [Your Interests]. I love building [types of projects] and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p></td>
-    <td><img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"></td>
+        <p>With 10+ years of experience, I specialize in designing and delivering data engineering solutions that are reliable, scalable, and built to last. From REST APIs to ETL pipelines, I’ve helped teams turn raw data into actionable insights.</p>
+        <p>I'm a Data Engineer passionate about . I love building [types of projects] and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
+    </td>
+    <td>
+        <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
+    </td>
  </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start; gap: 1rem;">
-  <div style="flex: 3;">
-
-  </div>
-  <div style="flex: 1;">
-
-  </div>
-</div>
+<a href="mailto:kimberly.emerson@outlook.com">
+  <img style="padding:0;margin:0" height="30" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/yt_icon_red_digital.png"/>
+</a>
 
 ## 🌟 Certification
 
@@ -54,7 +49,7 @@
 </p>
 
 <p align="left" style="vertical-align:top;">
-  <p style="text-transform:lowercase;margin:0;"><em>MuleSoft Stack</em></p><img style="height:48px;padding:0;margin:0;padding-right:0.5em;" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mulesoft.png"><img style="padding:0;margin:0;" src="https://skillicons.dev/icons?i=java,maven" /><img style="height:50px;padding-left:0.5em;border-radius:10px;" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/dw-logo.png">
+  <p style="text-transform:lowercase;margin:0;"><em>MuleSoft Stack</em></p><img style="height:48px;padding:0;margin:0;" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mulesoft.png"><img style="padding:0;margin:0;padding-left:0.5em;" src="https://skillicons.dev/icons?i=java,maven" /><img style="height:50px;padding-left:0.5em;border-radius:10px;" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/dw-logo.png">
 </p>
 
 <p align="left">
