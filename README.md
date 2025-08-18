@@ -62,7 +62,4 @@ I'm open to opportunities where I can:
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-009EDB?style=for-the-badge&logo=mulesoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 📈 GitHub Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberly-emerson&layout=compact&theme=tokyonight&exclude_repo=kimberly-emerson)
