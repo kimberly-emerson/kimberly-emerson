@@ -35,6 +35,16 @@
 
 ## 🛠️ Languages and Tools
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-009EDB?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
+
 <p align="center">
   <p style="text-transform:lowercase;margin:0;"><em>Python Stack</em></p><img style="padding:0;margin:0;" src="https://skillicons.dev/icons?i=py,django,postgres,mysql,mongodb,fastapi,flask,matlab" />
 </p>
@@ -65,11 +75,17 @@
 ## 💼 What I Do Best
 
 - 🔧 **Backend Integration**: Architecting and implementing REST APIs, ETL workflows, and SQL Server databases
-- 🧠 **Data Engineering**: Building efficient pipelines and data models using SQL Server, Python, and open-source tools
+- 🧠 **Data Engineering**: Building efficient pipelines and data models using SQL Server, Python, Microsoft Azure, and open-source tools
 - 📊 **Reporting & Analysis**: Creating dashboards and reports with Excel and Power BI to support business decisions
 - 📝 **End-to-End Delivery**: Gathering requirements, documenting solutions, testing, and supporting production environments
 - 🌍 **Team Collaboration**: Thriving in both solo projects and global, cross-functional teams
 - 🎓 **Certified Expertise**: Microsoft SQL Server Certified since 2016
+
+## 🧠 Fun Facts
+
+- I love reverse-engineering legacy systems and making them talk to modern APIs.
+- I believe good data engineering is invisible—until it breaks.
+- I’m always up for a challenge involving weird formats, broken schemas, or stubborn integrations.
 
 ## 🎯 What I'm Looking For
 
