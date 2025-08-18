@@ -29,7 +29,7 @@
 
 ## YouTube Channel
 
-[![Watch the video](https://img.youtube.com/vi/qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5/0.jpg)](https://www.youtube.com/watch?v=qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5)
+<iframe width="560" height="315" src="https://youtu.be/qw8XOtzj3Y4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 💚 Fun Facts
 
