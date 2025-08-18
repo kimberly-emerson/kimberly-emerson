@@ -94,3 +94,7 @@ I'm open to opportunities where I can:
   <p style="text-transform:lowercase;margin:0;"><em>Tools</em></p>
   <img style="padding:0;margin:0;" src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,bash,git,github,docker,postman,md,windows,linux" />
 </p>
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberly-emerson&layout=compact&theme=tokyonight&exclude_repo=kimberly-emerson)
