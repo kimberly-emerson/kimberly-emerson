@@ -37,6 +37,15 @@
   <img style="padding:0;margin:0" height="30" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/yt_icon_red_digital.png"/>
 </a>
 
+## 🎯 What I'm Looking For
+
+I'm open to opportunities where I can:
+
+- Lead or contribute to backend data engineering projects
+- Work with Python, MuleSoft, SQL Server, and modern data tools
+- Collaborate with teams focused on scalable, maintainable solutions
+- Help organizations turn data into decisions
+
 ## Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mvyyqmnzozgunauaghmgyuvyoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -85,12 +94,3 @@
   <p style="text-transform:lowercase;margin:0;"><em>Tools</em></p>
   <img style="padding:0;margin:0;" src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,bash,git,github,docker,postman,md,windows,linux" />
 </p>
-
-## 🎯 What I'm Looking For
-
-I'm open to opportunities where I can:
-
-- Lead or contribute to backend data engineering projects
-- Work with Python and modern data tools
-- Collaborate with teams focused on scalable, maintainable solutions
-- Help organizations turn data into decisions
