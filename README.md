@@ -86,20 +86,11 @@
   <img style="padding:0;margin:0;" src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,bash,git,github,docker,postman,md,windows,linux" />
 </p>
 
-## 💼 What I Do Best
-
-- 🔧 **Backend Integration**: Architecting and implementing REST APIs, ETL workflows, and SQL Server databases
-- 🧠 **Data Engineering**: Building efficient pipelines and data models using SQL Server, Python, Microsoft Azure, and open-source tools
-- 📊 **Reporting & Analysis**: Creating dashboards and reports with Excel and Power BI to support business decisions
-- 📝 **End-to-End Delivery**: Gathering requirements, documenting solutions, testing, and supporting production environments
-- 🌍 **Team Collaboration**: Thriving in both solo projects and global, cross-functional teams
-- 🎓 **Certified Expertise**: Microsoft SQL Server Certified since 2016
-
 ## 🎯 What I'm Looking For
 
 I'm open to opportunities where I can:
 
 - Lead or contribute to backend data engineering projects
-- Work with SQL Server, Python, and modern data tools
+- Work with Python and modern data tools
 - Collaborate with teams focused on scalable, maintainable solutions
 - Help organizations turn data into decisions
