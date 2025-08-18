@@ -13,14 +13,22 @@
 
 ## 👩‍💻 About Me
 
+<table border="0">
+ <tr>
+    <td>
+        <p>With 10+ years of experience, I specialize in designing and delivering backend data engineering solutions that are reliable, scalable, and built to last. From REST APIs to ETL pipelines, I’ve helped teams turn raw data into actionable insights.</p>
+
+  <p>I'm a Data Engineer passionate about [Your Interests]. I love building [types of projects] and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p></td>
+    <td><img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"></td>
+ </tr>
+</table>
+
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
   <div style="flex: 3;">
-    <p>With 10+ years of experience, I specialize in designing and delivering backend data engineering solutions that are reliable, scalable, and built to last. From REST APIs to ETL pipelines, I’ve helped teams turn raw data into actionable insights.</p>
 
-  <p>I'm a Data Engineer passionate about [Your Interests]. I love building [types of projects] and exploring [technologies or domains]. My goal is to [your mission or aspiration].</p>
   </div>
   <div style="flex: 1;">
-<img style="border-radius: 20px 60px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif">
+
   </div>
 </div>
 
