@@ -29,14 +29,7 @@
 
 ## YouTube Channel
 
-[![@kimberlyemersondev](https://img.youtube.com/vi/qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5/0.jpg)](https://youtu.be/qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5)
-
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
+[![Watch the video](https://img.youtube.com/vi/qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5/0.jpg)](https://www.youtube.com/watch?v=qw8XOtzj3Y4?si=TWNl0z2fFua5ZTq5)
 
 ## 💚 Fun Facts
 
