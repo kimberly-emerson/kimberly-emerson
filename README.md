@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/@-Email-yellow?style=for-the-badge&logo=at&logoColor=white&labelColor=goldenrod)](mailto:kimberly.emerson@outlook.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
 
   <!-- <a href="https://www.linkedin.com/in/kimberly-emerson/">
     <img style="padding:0;margin:0;" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/LI-In-Bug.png"/>
