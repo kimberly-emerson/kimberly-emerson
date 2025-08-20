@@ -26,7 +26,7 @@
  </tr>
 </table>
 
-## Now Learning
+## 🧠 Now Learning
 
 [![edX](https://img.shields.io/badge/edX-HarvardX%20CS50x-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) 
 
