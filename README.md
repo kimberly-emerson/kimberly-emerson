@@ -26,6 +26,13 @@
  </tr>
 </table>
 
+## Now Learning
+
+[![edX](https://img.shields.io/badge/edX-HarvardX%20CS50x-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) 
+
+**HarvardX: CS50's Introduction to Computer Science**  
+An introduction to the intellectual enterprises of computer science and the art of programming.
+
 ## 💚 Fun Facts
 
 - I love reverse-engineering legacy systems and making them talk to modern APIs.
