@@ -1,12 +1,16 @@
 ![Header](https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/github-header-banner.png)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kimberly-emerson/">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/@-Email-yellow?style=for-the-badge&logo=at&logoColor=white&labelColor=goldenrod)](mailto:kimberly.emerson@outlook.com)
+
+  <!-- <a href="https://www.linkedin.com/in/kimberly-emerson/">
     <img style="padding:0;margin:0;" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/LI-In-Bug.png"/>
   </a>
   <a href="mailto:kimberly.emerson@outlook.com">
     <img style="padding:0;margin:0;" height="25" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/email.png"/>
-    </a>
+    </a> -->
 </div>
 
 ## 👩‍💻 About Me
