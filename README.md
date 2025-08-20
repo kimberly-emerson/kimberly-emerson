@@ -107,6 +107,7 @@ I'm open to opportunities where I can:
 ### MuleSoft
 
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-009EDB?style=for-the-badge&logo=mulesoft&logoColor=white)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 [![Anypoint Platform](https://img.shields.io/badge/Anypoint_Platform-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/platform/enterprise-integration)
 [![Design Center](https://img.shields.io/badge/Design_Center-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/design-center/)
 [![API Manager](https://img.shields.io/badge/API_Manager-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/api-manager/)
