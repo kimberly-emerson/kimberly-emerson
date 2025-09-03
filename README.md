@@ -23,11 +23,11 @@
         <li>Enabling seamless data integration through automation, orchestration, and domain-driven design</li>
         <li>Writing testable, reusable code with contributor clarity and onboarding in mind</li>
         </ul>
+        <h3>Mission</h3>
+        <p>I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.</p>
     </td>
     <td width="30%" style="vertical-align: top;">
         <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
-        <h3>Mission</h3>
-        <p>I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.</p>
     </td>
  </tr>
 </table>
