@@ -10,15 +10,21 @@
 
 ## 👩‍💻 About Me
 
-**Strategic Data Engineer | API Architect | Automation Enthusiast**
+**Data Engineer  API Architect  Scalable Systems Strategis**
 
 <table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td width="0%">
-        <p>I’m a <strong>Data Engineer</strong> with over a decade of experience designing and delivering robust, scalable, and future-proof data solutions. Whether it’s building REST APIs, architecting data pipelines, or enabling real-time analytics, I specialize in turning raw data into reliable, actionable insights that drive business impact.
-        </p>
-        <p>My passion lies in building APIs and microservices for seamless data access and integration, using tools like Python, FastAPI, Django, and Flask.</p>
-        <p>My goal is to evolve from a pipeline builder into a strategic architect of intelligent data systems—leveraging automation, orchestration, and AI to build platforms that scale with the future.</p>
+        <p>I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.</p>
+        <h3>Core Strengths</h3>
+        <ul>
+        <li>Architecting modular APIs and microservices with Python, FastAPI, Django, and Flask</li>
+        <li>Engineering secure, production-grade data pipelines across SQL Server, PostgreSQL, and cloud platforms</li>
+        <li>Enabling seamless data integration through automation, orchestration, and domain-driven design</li>
+        <li>Writing testable, reusable code with contributor clarity and onboarding in mind</li>
+        </ul>
+        <h3>Mission</h3>
+        <p>I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.</p>
     </td>
     <td width="30%">
         <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
