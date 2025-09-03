@@ -11,7 +11,7 @@
 
 **Data Engineer | API Architect | Scalable Systems Strategist**
 
-<img align="right" width="25%" style="float: right; padding: 10px; margin: 0 0 0 20px; border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.
+<img align="right" width="25%" style="float: right; padding: 10px; margin: 20px; border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.
 
 ### Core Strengths
 Architecting modular APIs and microservices with Python, FastAPI, Django, and Flask
