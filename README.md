@@ -5,32 +5,25 @@
 [![LinkedIn](https://img.shields.io/badge/💬-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/kimberly-emerson)
 [![Email](https://img.shields.io/badge/@-Email-yellow?style=for-the-badge&logo=at&logoColor=white&labelColor=goldenrod)](mailto:kimberly.emerson@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
-
 </div>
 
 ## 👩‍💻 About Me
 
 **Data Engineer | API Architect | Scalable Systems Strategist**
 
-<table border="0" cellspacing="0" cellpadding="0">
- <tr>
-    <td width="0%">
-        <p>I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.</p>
-        <h3>Core Strengths</h3>
-        <ul>
-        <li>Architecting modular APIs and microservices with Python, FastAPI, Django, and Flask</li>
-        <li>Engineering secure, production-grade data pipelines across SQL Server, PostgreSQL, and cloud platforms</li>
-        <li>Enabling seamless data integration through automation, orchestration, and domain-driven design</li>
-        <li>Writing testable, reusable code with contributor clarity and onboarding in mind</li>
-        </ul>
-        <h3>Mission</h3>
-        <p>I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.</p>
-    </td>
-    <td width="30%" style="vertical-align: top;">
-        <img style="border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
-    </td>
- </tr>
-</table>
+<img style="width: 25%; float: right; align: left; margin: 0 0 10px 10px; border-radius: 10px 30px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>
+
+
+I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.
+
+### Core Strengths
+Architecting modular APIs and microservices with Python, FastAPI, Django, and Flask
+Engineering secure, production-grade data pipelines across SQL Server, PostgreSQL, and cloud platforms
+Enabling seamless data integration through automation, orchestration, and domain-driven design
+Writing testable, reusable code with contributor clarity and onboarding in mind
+
+### Mission
+I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.
 
 ## 🧠 Now Learning
 
