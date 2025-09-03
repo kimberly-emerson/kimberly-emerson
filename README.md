@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-**Data Engineer  API Architect  Scalable Systems Strategis**
+**Data Engineer | API Architect | Scalable Systems Strategist**
 
 <table border="0" cellspacing="0" cellpadding="0">
  <tr>
