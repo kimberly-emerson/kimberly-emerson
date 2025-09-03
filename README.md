@@ -29,20 +29,20 @@ I’m evolving from pipeline builder to strategic architect—designing intellig
 **HarvardX: CS50's Introduction to Computer Science**  
 An introduction to the intellectual enterprises of computer science and the art of programming.
 
-## 💚 Fun Facts
+## 💚 Legacy Whisperer, API Translator, Data Sleuth
 
-- I love reverse-engineering legacy systems and making them talk to modern APIs.
-- I believe good data engineering is invisible.
-- I’m always up for a challenge involving weird formats, broken schemas, or stubborn integrations.
+- I specialize in reverse-engineering legacy systems and architecting seamless API integrations that modernize without disruption.
+- My philosophy: the best data engineering is invisible—clean pipelines, resilient schemas, and zero fire drills.
+- I thrive on complexity: malformed formats, broken schemas, and stubborn integrations aren’t blockers—they’re invitations to innovate.
 
-## 🎯 What I'm Looking For
+## 🎯 Open to Impact-Driven Engineering Roles
 
-I'm open to opportunities where I can:
+I’m exploring opportunities where I can:
 
-- Lead or contribute to backend data engineering projects
-- Work with Python, MuleSoft, SQL Server, and modern data tools
-- Collaborate with teams focused on scalable, maintainable solutions
-- Help organizations turn data into decisions
+- Architect or contribute to backend data platforms that drive performance, scalability, and contributor clarity
+- Leverage Python, MuleSoft, SQL Server, and modern data tools to build resilient, insight-ready systems
+- Collaborate with cross-functional teams committed to clean design, maintainable code, and long-term value
+- Translate raw data into strategic decisions, empowering organizations to act with confidence and precision.
 
 ## 🎧 Now Playing
 
