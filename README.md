@@ -24,10 +24,10 @@ I’m evolving from pipeline builder to strategic architect—designing intellig
 
 ## 🧠 Now Learning
 
-[![edX](https://img.shields.io/badge/edX-HarvardX%20CS50x-white?style=for-the-badge&logo=edx&logoColor=white&labelColor=black)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) 
+[![edX Badge](https://img.shields.io/badge/edX-Introduction%20to%20Programming%20with%20Python-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black&color=white)](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
-**HarvardX: CS50's Introduction to Computer Science**  
-An introduction to the intellectual enterprises of computer science and the art of programming.
+**HarvardX: CS50's Introduction to Programming with Python**  
+An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
 
 ## 💚 Legacy Whisperer, API Translator, Data Sleuth
 
