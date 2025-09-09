@@ -26,7 +26,7 @@ I’m evolving from pipeline builder to strategic architect—designing intellig
 
 [![edX Badge](https://img.shields.io/badge/edX-Introduction%20to%20Programming%20with%20Python-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black&color=white)](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
 
-**HarvardX: CS50's Introduction to Programming with Python**  
+[HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)  
 An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
 
 ## 💚 Legacy Whisperer, API Translator, Data Sleuth
