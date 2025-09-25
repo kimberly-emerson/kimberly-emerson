@@ -52,13 +52,14 @@ I’m exploring opportunities where I can:
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
 <img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/>
-</a> <a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /></a>
+</a>
+<a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /></a>
 
 ## #️⃣ Technology Stack
 
 ### Backend
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
