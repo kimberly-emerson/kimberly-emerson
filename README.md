@@ -24,10 +24,25 @@ I’m evolving from pipeline builder to strategic architect—designing intellig
 
 ## 🧠 Now Learning
 
-[![edX Badge](https://img.shields.io/badge/edX-Introduction%20to%20Programming%20with%20Python-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black&color=white)](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) 
+[![edX Badge](https://img.shields.io/badge/edX-Advanced%20Data%20Engineering-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black&color=white)](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-open-source-llmops-2) 
 
-[HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)  
-An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
+[AI: Advanced Data Engineering](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-open-source-llmops-2)  
+Master Scalable Data Engineering with Cutting-Edge Tools
+
+- Learn to handle massive datasets efficiently with this advanced course
+- Gain practical expertise in scaling data systems using modern technologies
+- Ideal for data scientists, engineers & professionals with data handling experience
+
+## 🌟 Badges
+
+<a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
+<img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/> 
+</a> 
+<a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /> </a>
+
+---
+
+[![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson)
 
 ## 💚 Legacy Whisperer, API Translator, Data Sleuth
 
@@ -47,13 +62,6 @@ I’m exploring opportunities where I can:
 ## 🎧 Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mvyyqmnzozgunauaghmgyuvyoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## 🌟 Badges
-
-<a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
-<img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/>
-</a> 
-<a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /></a>
 
 ## #️⃣ Technology Stack
 
