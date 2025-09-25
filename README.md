@@ -48,11 +48,11 @@ I’m exploring opportunities where I can:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mvyyqmnzozgunauaghmgyuvyoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## 🌟 Certification
+## 🌟 Badges
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
 <img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/>
-</a>
+</a> <a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /></a>
 
 ## #️⃣ Technology Stack
 
