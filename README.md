@@ -33,6 +33,13 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 - Gain practical expertise in scaling data systems using modern technologies
 - Ideal for data scientists, engineers & professionals with data handling experience
 
+### Completions
+
+🏅 [Crash Course in Linux with Labs](https://learn.kodekloud.com/user/certificate/876547de-7846-474a-a74e-199ef20e8430) 10/06/2025  
+🏅 [IBM SQL for Data Science](https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url) 09/25/2025  
+🏅 CS50: Introduction to Python   
+
+
 ## 🌟 Badges
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
