@@ -35,7 +35,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 
 ### Completions
 
-🏅 [Introduction to Jenins](https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url) 10/09/2025 
+🏅 [Introduction to Jenins](https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url) 10/09/2025   
 🏅 [OpenAPI Fundamentals](https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url) 10/07/2025  
 🏅 [Crash Course in Linux with Labs](https://learn.kodekloud.com/user/certificate/876547de-7846-474a-a74e-199ef20e8430) 10/06/2025  
 🏅 [IBM SQL for Data Science](https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url) 09/25/2025  
