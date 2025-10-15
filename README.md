@@ -35,11 +35,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 
 ### Completions
 
-🏅 [Introduction to Kubernetes](https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url) 10/14/2025   
-🏅 [Introduction to Jenins](https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url) 10/09/2025   
-🏅 [OpenAPI Fundamentals](https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url) 10/07/2025  
 🏅 [Crash Course in Linux with Labs](https://learn.kodekloud.com/user/certificate/876547de-7846-474a-a74e-199ef20e8430) 10/06/2025  
-🏅 [IBM SQL for Data Science](https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url) 09/25/2025  
 🏅 CS50: Introduction to Python   
 
 
@@ -52,6 +48,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 <a href="https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfel1011-openapi-fundamentals.png" /> </a>
 <a href="https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs167-introduction-to-jenkins.png" /> </a>
 <a href="https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs158-introduction-to-kubernetes.png" /> </a>
+<a href="https://www.credly.com/badges/abba5e1b-b1c0-438e-a36b-9589d7357e1c/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/ lfs157-introduction-to-serverless-on-kubernetes.png" /> </a>
 
 ---
 
