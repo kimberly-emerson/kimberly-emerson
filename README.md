@@ -48,7 +48,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 <a href="https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfel1011-openapi-fundamentals.png" /> </a>
 <a href="https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs167-introduction-to-jenkins.png" /> </a>
 <a href="https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs158-introduction-to-kubernetes.png" /> </a>
-<a href="https://www.credly.com/badges/abba5e1b-b1c0-438e-a36b-9589d7357e1c/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/ lfs157-introduction-to-serverless-on-kubernetes.png" /> </a>
+<a href="https://www.credly.com/badges/abba5e1b-b1c0-438e-a36b-9589d7357e1c/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs157-introduction-to-serverless-on-kubernetes.png" /> </a>
 
 ---
 
