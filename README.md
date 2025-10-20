@@ -38,13 +38,13 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 🏅 [Crash Course in Linux with Labs](https://learn.kodekloud.com/user/certificate/876547de-7846-474a-a74e-199ef20e8430) 10/06/2025  
 🏅 CS50: Introduction to Python   
 
-
 ## 🌟 Badges
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
 <img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/> 
 </a> 
 <a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /> </a>
+<a href="https://www.credly.com/badges/ea66e47c-8a7a-41bc-8278-d479bb8fa0e9/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs101-introduction-to-linux.png" /> </a>
 <a href="https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfel1011-openapi-fundamentals.png" /> </a>
 <a href="https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs167-introduction-to-jenkins.png" /> </a>
 <a href="https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs158-introduction-to-kubernetes.png" /> </a>
@@ -53,6 +53,9 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 ---
 
 [![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Kimberly_Emerson-white?style=flat-square&logo=microsoft&logoColor=white&labelColor=blue)](https://learn.microsoft.com/en-us/users/kimberlyemerson-5951/transcript/71el0hym24ee0l1)
+
 
 ## 💚 Legacy Whisperer, API Translator, Data Sleuth
 
