@@ -50,7 +50,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 <a href="https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs158-introduction-to-kubernetes.png" /> </a>
 <a href="https://www.credly.com/badges/abba5e1b-b1c0-438e-a36b-9589d7357e1c/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs157-introduction-to-serverless-on-kubernetes.png" /> </a>
 <a href="https://www.credly.com/badges/2a03398e-c532-419f-8a0a-19859978ef4a/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfc111-open-source-technical-documentation-essentia.png" /> </a>
-
+<a href="https://credentials.databricks.com/692f3552-ae7b-49c9-bf0c-a9ed94b58e4b#acc.C6f2GF1X"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/databricks_fundamentals.png" /> </a>
 ---
 
 [![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson)
