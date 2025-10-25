@@ -24,7 +24,7 @@ What I bring:
 - Seamless data integration via orchestration, automation, and domain-driven design
 - Testable, reusable code built for contributor clarity and onboarding
 
-<!-- [![pdf resume](https://img.shields.io/badge/📄-RESUME%20PDF-red?style=for-the-badge&labelColor=red)]()&nbsp;&nbsp; -->
+[![pdf resume](https://img.shields.io/badge/📄-RESUME%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/cv211yh54j6u5nrv54z35/emerson_kimberly.pdf?rlkey=ncob2ga555eettll82qnj2l1s&st=axv7q58i&dl=0)&nbsp;
 [![word resume](https://img.shields.io/badge/📄-ATS%20RESUME%20%28word%29-blue?style=for-the-badge&labelColor=blue)](https://www.dropbox.com/scl/fi/hpgrn0kr5z7nkijmwu6ut/emerson_kimberly_ats.docx?rlkey=12emwg7sqnxc0oh7gl790vgwl&st=wid2allo&dl=0)
 
 ---
