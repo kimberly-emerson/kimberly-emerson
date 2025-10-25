@@ -86,12 +86,12 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 
 I design backend systems that scale, integrate securely, and support real-world teams. My focus is on building APIs, pipelines, and automation that are not only reliable but also easy to maintain and extend. Every solution I deliver is built with clarity, contributor onboarding, and long-term impact in mind.
 
-- I build RESTful APIs and microservices using domain-driven design, reusable factories, and teardown-friendly test scaffolds.  
-- I engineer secure integrations across cloud and on-prem environments, automating data movement and accelerating team workflows.  
-- My pipelines are analytics-ready and built to meet compliance standards, with reliability that holds up under institutional review.  
-- I translate complex architectures into visual documentation and modular curriculum, making systems teachable and scalable.  
-- I support full-stack visibility through UI integration, enabling contributors to work confidently across platforms.  
-- I work with modular tooling across Linux, Windows, and containerized environments, optimizing for portability, automation, and open-source collaboration.
+- I build **RESTful APIs and microservices** using domain-driven design, reusable factories, and teardown-friendly test scaffolds.  
+- I engineer **secure integrations** across cloud and on-prem environments, automating data movement and accelerating team workflows.  
+- My **pipelines are analytics-ready** and built to meet compliance standards, with reliability that holds up under institutional review.  
+- I **translate complex architectures** into visual documentation and modular curriculum, making systems teachable and scalable.  
+- I support **full-stack visibility** through UI integration, enabling contributors to work confidently across platforms.  
+- I work with **modular tooling** across Linux, Windows, and containerized environments, optimizing for portability, automation, and open-source collaboration.
 
 If you're hiring for backend architecture, data engineering, or integration strategy, I bring the clarity and systems thinking that help teams move faster and build smarter.
 
