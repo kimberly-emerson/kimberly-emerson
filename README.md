@@ -2,22 +2,38 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💬-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/kimberly-emerson)
-[![Email](https://img.shields.io/badge/@-Email-yellow?style=for-the-badge&logo=at&logoColor=white&labelColor=goldenrod)](mailto:kimberly.emerson@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/kimberly-emerson)
+[![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://www.substack.com/@kimberlyemerson)
+[![Email](https://img.shields.io/badge/📧-Email-seagreen?style=for-the-badge&labelColor=seagreen)](mailto:kimberly.emerson@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
 </div>
 
+---
+
+📣 **Open to Work: Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | Secure, Scalable Data Integrations | API Security | CI/CD Automation**
+
+<img align="left" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>I’m actively exploring new opportunities where I can architect secure, scalable data integrations and accelerate team velocity through automation and clarity.
+With deep expertise in MuleSoft, Python, Azure, and SQL Server, I build ETL pipelines, REST APIs, and CI/CD workflows that move data reliably and make systems future-proof. 
+
+My focus is turning complex integrations into maintainable, analytics-ready solutions that scale across teams, meet compliance, and evolve with the organization.
+
+What I bring:
+
+- Modular API design with Python, FastAPI, Django, and Flask
+- Secure, production-grade pipelines across SQL Server, PostgreSQL, MySQL, MongoDB and cloud platforms
+- Seamless data integration via orchestration, automation, and domain-driven design
+- Testable, reusable code built for contributor clarity and onboarding
+
+
+---
+
 ## 👩‍💻 About Me
 
-**Data Engineer | API Architect | Scalable Systems Strategist**
+**Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | APIs | Secure, Scalable Data Integrations | CI/CD Automation**
 
-<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>I design contributor-friendly ecosystems that turn raw data into reliable, actionable insights. With more than 10 years of experience across REST APIs, ETL pipelines, and real-time analytics, I specialize in building scalable platforms that empower teams and drive business outcomes.
+<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>I specialize in MuleSoft, Python, Azure, and SQL Server, building ETL pipelines, REST APIs, and CI/CD automation that move data reliably and make teams faster.
 
-### Core Strengths
-Architecting modular APIs and microservices with Python, FastAPI, Django, and Flask
-Engineering secure, production-grade data pipelines across SQL Server, PostgreSQL, and cloud platforms
-Enabling seamless data integration through automation, orchestration, and domain-driven design
-Writing testable, reusable code with contributor clarity and onboarding in mind
+Always learning, always modernizing — from serverless and containerized deployments to open-source analytics stacks that push enterprise data forward.
 
 ### Mission
 I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.
@@ -33,107 +49,79 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 - Gain practical expertise in scaling data systems using modern technologies
 - Ideal for data scientists, engineers & professionals with data handling experience
 
-### Completions
+## 🌟 Certifications & Professional Development
 
-🏅 [Crash Course in Linux with Labs](https://learn.kodekloud.com/user/certificate/876547de-7846-474a-a74e-199ef20e8430) 10/06/2025  
-🏅 CS50: Introduction to Python   
-
-## 🌟 Badges
+### Python & Data Science
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
 <img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/mcsa-sql-server-2012-2014-certified-2016.png"/> 
 </a> 
 <a href="https://www.credly.com/badges/1635188a-89a8-4bcc-980b-0bb526a004e0/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/sql-for-data-science.png" /> </a>
-<a href="https://www.credly.com/badges/ea66e47c-8a7a-41bc-8278-d479bb8fa0e9/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs101-introduction-to-linux.png" /> </a>
+<a href="https://credentials.databricks.com/692f3552-ae7b-49c9-bf0c-a9ed94b58e4b#acc.C6f2GF1X"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/databricks_fundamentals.png" /> </a>
+
+### API Design
+
 <a href="https://www.credly.com/badges/f682e2f8-0c77-420b-a9f4-e3ac5eae7306/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfel1011-openapi-fundamentals.png" /> </a>
+
+### DevOps & CI/CD
+
 <a href="https://www.credly.com/badges/36dff903-3832-4b16-a96c-4768e6858747/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs167-introduction-to-jenkins.png" /> </a>
+<a href="https://www.credly.com/badges/ea66e47c-8a7a-41bc-8278-d479bb8fa0e9/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs101-introduction-to-linux.png" /> </a>
+
+### Cloud & Kubernetes
+
 <a href="https://www.credly.com/badges/c72c6cf8-4721-4fc9-8f1c-cfe99da1a66f/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs158-introduction-to-kubernetes.png" /> </a>
 <a href="https://www.credly.com/badges/abba5e1b-b1c0-438e-a36b-9589d7357e1c/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfs157-introduction-to-serverless-on-kubernetes.png" /> </a>
+
+
+### Documentation
 <a href="https://www.credly.com/badges/2a03398e-c532-419f-8a0a-19859978ef4a/public_url"><img height="100" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/lfc111-open-source-technical-documentation-essentia.png" /> </a>
-<a href="https://credentials.databricks.com/692f3552-ae7b-49c9-bf0c-a9ed94b58e4b#acc.C6f2GF1X"><img height="120" src="https://raw.githubusercontent.com/kimberly-emerson/kimberly-emerson/main/.github/images/databricks_fundamentals.png" /> </a>
 
 ---
 
-[![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson)
+[![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson) [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Kimberly_Emerson-white?style=flat-square&logo=microsoft&logoColor=white&labelColor=blue)](https://learn.microsoft.com/en-us/users/kimberlyemerson-5951/transcript/71el0hym24ee0l1) ![Databricks Badge](https://img.shields.io/badge/databricks-kimberlyemerson-white?logo=databricks&logoColor=white&labelColor=black)
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Kimberly_Emerson-white?style=flat-square&logo=microsoft&logoColor=white&labelColor=blue)](https://learn.microsoft.com/en-us/users/kimberlyemerson-5951/transcript/71el0hym24ee0l1)
+## 🛠️ Tech Stack
 
+I design backend systems that scale, integrate securely, and support real-world teams. My focus is on building APIs, pipelines, and automation that are not only reliable but also easy to maintain and extend. Every solution I deliver is built with clarity, contributor onboarding, and long-term impact in mind.
 
-## 💚 Legacy Whisperer, API Translator, Data Sleuth
+- I build RESTful APIs and microservices using domain-driven design, reusable factories, and teardown-friendly test scaffolds.  
+- I engineer secure integrations across cloud and on-prem environments, automating data movement and accelerating team workflows.  
+- My pipelines are analytics-ready and built to meet compliance standards, with reliability that holds up under institutional review.  
+- I translate complex architectures into visual documentation and modular curriculum, making systems teachable and scalable.  
+- I support full-stack visibility through UI integration, enabling contributors to work confidently across platforms.  
+- I work with modular tooling across Linux, Windows, and containerized environments, optimizing for portability, automation, and open-source collaboration.
 
-- I specialize in reverse-engineering legacy systems and architecting seamless API integrations that modernize without disruption.
-- My philosophy: the best data engineering is invisible—clean pipelines, resilient schemas, and zero fire drills.
-- I thrive on complexity: malformed formats, broken schemas, and stubborn integrations aren’t blockers—they’re invitations to innovate.
+If you're hiring for backend architecture, data engineering, or integration strategy, I bring the clarity and systems thinking that help teams move faster and build smarter.
 
-## 🎯 Open to Impact-Driven Engineering Roles
+<details>
+<summary><strong>Backend Frameworks & API Architecture</strong></summary>
 
-I’m exploring opportunities where I can:
-
-- Architect or contribute to backend data platforms that drive performance, scalability, and contributor clarity
-- Leverage Python, MuleSoft, SQL Server, and modern data tools to build resilient, insight-ready systems
-- Collaborate with cross-functional teams committed to clean design, maintainable code, and long-term value
-- Translate raw data into strategic decisions, empowering organizations to act with confidence and precision.
-
-## 🎧 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mvyyqmnzozgunauaghmgyuvyoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## #️⃣ Technology Stack
-
-### Backend
-
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![pdm](https://img.shields.io/badge/PDM-5B5B5B?style=for-the-badge&logo=pdm&logoColor=white)](https://pdm.fming.dev/)
-[![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io/)
-[![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![drf-yasg](https://img.shields.io/badge/drf--yasg-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://github.com/axnsan12/drf-yasg)
+
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
 [![ASP.NET Framework](https://img.shields.io/badge/ASP.NET_Framework-1B365D?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-003B6F?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
-[![Swagger/OpenAPI](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/specification/)
-[![SSIS](https://img.shields.io/badge/SQL_Server_Integration_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Swagger/OpenAPI](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/specification/)
+[![RAML](https://img.shields.io/badge/RAML-0D5C9E?style=for-the-badge&logo=raml&logoColor=white)](https://raml.org/)
 
-### Frontend
+</details>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Angular](https://img.shields.io/badge/Angular_2%2B-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![jQuery UI](https://img.shields.io/badge/jQuery_UI-5A5A5A?style=for-the-badge&logo=jquery&logoColor=white)](https://jqueryui.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Databases
-
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-sql/)
-
-### Reporting
-
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
-[![DAX](https://img.shields.io/badge/DAX_Formula_Language-00B0F0?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
-[![SSRS](https://img.shields.io/badge/SQL_Server_Reporting_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/reporting-services/)
-[![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0C2340?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/crystal-reports.html)
-
-### MuleSoft
+<details>
+<summary><strong>Integration Platforms & MuleSoft</strong></summary>
 
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-009EDB?style=for-the-badge&logo=mulesoft&logoColor=white)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 [![Anypoint Platform](https://img.shields.io/badge/Anypoint_Platform-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/platform/enterprise-integration)
 [![Design Center](https://img.shields.io/badge/Design_Center-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/design-center/)
 [![API Manager](https://img.shields.io/badge/API_Manager-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/api-manager/)
@@ -143,24 +131,77 @@ I’m exploring opportunities where I can:
 [![Mule 4.6+](https://img.shields.io/badge/Mule_4.6+-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/mule-runtime/)
 [![DataWeave](https://img.shields.io/badge/DataWeave-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/dataweave/)
 [![MUnit](https://img.shields.io/badge/MUnit_Testing-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/munit/)
-[![RAML](https://img.shields.io/badge/RAML-0D5C9E?style=for-the-badge&logo=raml&logoColor=white)](https://raml.org/)
 [![Java 8](https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 [![Java 17](https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/17/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
-### Tools
+</details>
+
+<details>
+<summary><strong>Databases & ETL</strong></summary>
+
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-sql/)
+[![SSIS](https://img.shields.io/badge/SQL_Server_Integration_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/)
+
+</details>
+
+<details>
+<summary><strong>Reporting & BI Tools</strong></summary>
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
+[![DAX](https://img.shields.io/badge/DAX_Formula_Language-00B0F0?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![SSRS](https://img.shields.io/badge/SQL_Server_Reporting_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/reporting-services/)
+[![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0C2340?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/crystal-reports.html)
+
+</details>
+
+<details>
+<summary><strong>DevOps, CI/CD, Automation</strong></summary>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[![PowerShell Core](https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Fiddler](https://img.shields.io/badge/Fiddler-009688?style=for-the-badge&logoColor=white)](https://www.telerik.com/fiddler)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+![Mermaid](https://img.shields.io/badge/Mermaid-1E4E8C?style=for-the-badge&logo=mermaid&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Frontend Scripting</strong></summary>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Angular](https://img.shields.io/badge/Angular_2%2B-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![jQuery UI](https://img.shields.io/badge/jQuery_UI-5A5A5A?style=for-the-badge&logo=jquery&logoColor=white)](https://jqueryui.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+</details>
+
+<details>
+<summary><strong>Developer Tools & IDEs</strong></summary>
 
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![PowerShell Core](https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Fiddler](https://img.shields.io/badge/Fiddler-009688?style=for-the-badge&logoColor=white)](https://www.telerik.com/fiddler)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+</details>
 
 ---
 
