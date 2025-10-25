@@ -80,7 +80,7 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 
 ---
 
-[![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson) [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Kimberly_Emerson-white?style=flat-square&logo=microsoft&logoColor=white&labelColor=blue)](https://learn.microsoft.com/en-us/users/kimberlyemerson-5951/transcript/71el0hym24ee0l1) ![Databricks Badge](https://img.shields.io/badge/databricks-kimberlyemerson-white?logo=databricks&logoColor=white&labelColor=black)
+[![Credly Profile](https://img.shields.io/badge/Credly-Kimberly_Emerson-white?style=flat-square&logo=credly&logoColor=white&labelColor=orange)](https://www.credly.com/users/kimberly-emerson)&nbsp;&nbsp;[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Kimberly_Emerson-white?style=flat-square&logo=microsoft&logoColor=white&labelColor=blue)](https://learn.microsoft.com/en-us/users/kimberlyemerson-5951/transcript/71el0hym24ee0l1)&nbsp;&nbsp;![Databricks Badge](https://img.shields.io/badge/databricks-kimberlyemerson-white?logo=databricks&logoColor=white&labelColor=black)
 
 ## 🛠️ Tech Stack
 
