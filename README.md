@@ -30,8 +30,9 @@ What I bring:
 ## 👩‍💻 About Me
 
 **Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | APIs | Secure, Scalable Data Integrations | CI/CD Automation**
-
-<img align="left" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/>I specialize in MuleSoft, Python, Azure, and SQL Server, building ETL pipelines, REST APIs, and CI/CD automation that move data reliably and make teams faster.
+<!-- 
+<img align="left" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/> -->
+I specialize in MuleSoft, Python, Azure, and SQL Server, building ETL pipelines, REST APIs, and CI/CD automation that move data reliably and make teams faster.
 
 Always learning, always modernizing — from serverless and containerized deployments to open-source analytics stacks that push enterprise data forward.
 
