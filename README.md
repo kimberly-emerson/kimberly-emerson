@@ -41,7 +41,7 @@ Always learning, always modernizing — from serverless and containerized deploy
 ### Mission
 I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.
 
-## 🧠 Now Learning
+## 🧠 Strategic Upskilling
 
 [![edX Badge](https://img.shields.io/badge/edX-Advanced%20Data%20Engineering-black?style=for-the-badge&logo=edx&logoColor=white&labelColor=black&color=white)](https://www.edx.org/learn/computer-science/pragmatic-ai-labs-open-source-llmops-2) 
 
