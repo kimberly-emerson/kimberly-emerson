@@ -25,7 +25,7 @@ What I bring:
 - Testable, reusable code built for contributor clarity and onboarding
 
 <!-- [![pdf resume](https://img.shields.io/badge/📄-RESUME%20PDF-red?style=for-the-badge&labelColor=red)]()&nbsp;&nbsp; -->
-[![word resume](https://img.shields.io/badge/📄-RESUME%20%28word%29-blue?style=for-the-badge&labelColor=blue)](https://www.dropbox.com/scl/fi/hpgrn0kr5z7nkijmwu6ut/emerson_kimberly_ats.docx?rlkey=12emwg7sqnxc0oh7gl790vgwl&st=wid2allo&dl=0)
+[![word resume](https://img.shields.io/badge/📄-ATS%20RESUME%20%28word%29-blue?style=for-the-badge&labelColor=blue)](https://www.dropbox.com/scl/fi/hpgrn0kr5z7nkijmwu6ut/emerson_kimberly_ats.docx?rlkey=12emwg7sqnxc0oh7gl790vgwl&st=wid2allo&dl=0)
 
 ---
 
