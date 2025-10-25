@@ -52,6 +52,8 @@ Master Scalable Data Engineering with Cutting-Edge Tools
 
 ## 🌟 Certifications & Professional Development
 
+Actively bridging enterprise integration expertise with modern data engineering and DevOps automation through strategic upskilling to accelerate readiness for cloud-native leadership in data modernization initiatives.
+
 ### Python & Data Science
 
 <a href="https://www.credly.com/badges/ab544dac-5399-494f-a2c0-61fbe07a84da/public_url">
