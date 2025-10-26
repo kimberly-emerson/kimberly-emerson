@@ -12,7 +12,7 @@
 
 📣 **Open to Work: Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | Secure, Scalable Data Integrations | API Security | CI/CD Automation**
 
-<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>I am actively re-entering the technical job market after a career break with a sharpened focus on Python backend development, data engineering, and DevOps automation. Bridging enterprise integration experience with cloud-native tooling through hands-on projects and credentialed learning.
+<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>Reentering the technical job market with a sharpened focus on backend development, data engineering, and cloud-native integration. Leveraged career break to deepen expertise in Python, PostgreSQL, CI/CD automation, and Microsoft Fabric. This career transition was aimed at bridging enterprise integration experience with modern DevOps and analytics platforms.
 
 With deep expertise in MuleSoft, Python, Azure, and SQL Server, I build ETL pipelines, REST APIs, and CI/CD workflows that move data reliably and make systems future-proof. 
 
