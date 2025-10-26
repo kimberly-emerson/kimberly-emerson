@@ -107,11 +107,13 @@ If you're hiring for backend architecture, data engineering, or integration stra
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
 [![ASP.NET Framework](https://img.shields.io/badge/ASP.NET_Framework-1B365D?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/)
@@ -127,8 +129,9 @@ If you're hiring for backend architecture, data engineering, or integration stra
 </details>
 
 <details>
-<summary><strong>Integration Platforms & MuleSoft</strong></summary>
+<summary><strong>Cloud Platforms & MuleSoft</strong></summary>
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-009EDB?style=for-the-badge&logo=mulesoft&logoColor=white)
 [![Anypoint Platform](https://img.shields.io/badge/Anypoint_Platform-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/platform/enterprise-integration)
 [![Design Center](https://img.shields.io/badge/Design_Center-00AEEF?style=for-the-badge&logo=mulesoft&logoColor=white)](https://docs.mulesoft.com/design-center/)
@@ -149,12 +152,14 @@ If you're hiring for backend architecture, data engineering, or integration stra
 <details>
 <summary><strong>Databases & ETL</strong></summary>
 
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-sql/)
 [![SSIS](https://img.shields.io/badge/SQL_Server_Integration_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/)
+[![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-sql/)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-8027B2?logoColor=white&style=for-the-badge)
 
 </details>
 
@@ -197,7 +202,7 @@ If you're hiring for backend architecture, data engineering, or integration stra
 [![jQuery UI](https://img.shields.io/badge/jQuery_UI-5A5A5A?style=for-the-badge&logo=jquery&logoColor=white)](https://jqueryui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
 
 </details>
 
@@ -209,6 +214,7 @@ If you're hiring for backend architecture, data engineering, or integration stra
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
 </details>
 
 ---
