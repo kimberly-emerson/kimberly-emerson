@@ -12,7 +12,8 @@
 
 📣 **Open to Work: Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | Secure, Scalable Data Integrations | API Security | CI/CD Automation**
 
-<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>I’m actively exploring new opportunities where I can architect secure, scalable data integrations and accelerate team velocity through automation and clarity.
+<img align="right" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>I am actively re-entering the technical job market after a career break with a sharpened focus on Python backend development, data engineering, and DevOps automation. Bridging enterprise integration experience with cloud-native tooling through hands-on projects and credentialed learning.
+
 With deep expertise in MuleSoft, Python, Azure, and SQL Server, I build ETL pipelines, REST APIs, and CI/CD workflows that move data reliably and make systems future-proof. 
 
 My focus is turning complex integrations into maintainable, analytics-ready solutions that scale across teams, meet compliance, and evolve with the organization.
