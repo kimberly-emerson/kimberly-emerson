@@ -6,6 +6,7 @@
 [![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://www.substack.com/@kimberlyemerson)
 [![Email](https://img.shields.io/badge/📧-Email-seagreen?style=for-the-badge&labelColor=seagreen)](mailto:kimberly.emerson@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
+[![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kimberly-emerson.bsky.social)
 </div>
 
 ---
