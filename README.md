@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/kimberly-emerson)
-[![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://www.substack.com/@kimberlyemerson)
 [![Email](https://img.shields.io/badge/📧-Email-seagreen?style=for-the-badge&labelColor=seagreen)](mailto:kimberly.emerson@outlook.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
+[![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://www.substack.com/@kimberlyemerson)
 [![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kimberly-emerson.bsky.social)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
 </div>
 
 ---
