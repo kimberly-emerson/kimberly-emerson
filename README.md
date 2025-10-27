@@ -13,7 +13,7 @@
 
 ## 📣 Open to Work
 
-**Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | Secure, Scalable Data Integrations | API Security | CI/CD Automation**
+**Senior Data Engineer | API & Integration Architect | Python • Azure • SQL • Data Pipelines • ETL/ELT • CI/CD | Cloud & API Integrations | Analytics-Ready Architecture**
 
 <img align="right" width="25%" style="margin: 50px:float: right;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>Reentering the technical job market with a sharpened focus on backend development, data engineering, and cloud-native integration. Leveraged career break to deepen expertise in Python, PostgreSQL, CI/CD automation, and Microsoft Fabric. This career transition was aimed at bridging enterprise integration experience with modern DevOps and analytics platforms.
 
@@ -24,8 +24,8 @@ My focus is turning complex integrations into maintainable, analytics-ready solu
 What I bring:
 
 - Modular API design with Python, FastAPI, Django, and Flask
-- Secure, production-grade pipelines across SQL Server, PostgreSQL, MySQL, MongoDB and cloud platforms
-- Seamless data integration via orchestration, automation, and domain-driven design
+- Secure, production-grade pipelines across SQL Server, PostgreSQL, MySQL, MongoDB and cloud platforms (Microsoft Azure)
+- Seamless data ingestion and transformation via orchestration, automation, and domain-driven design
 - Testable, reusable code built for contributor clarity and onboarding
 
 [![pdf resume](https://img.shields.io/badge/RESUME%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/cv211yh54j6u5nrv54z35/emerson_kimberly.pdf?rlkey=ncob2ga555eettll82qnj2l1s&st=axv7q58i&dl=0)&nbsp;
@@ -38,12 +38,16 @@ What I bring:
 
 ## 👩‍💻 About Me
 
-**Senior Data Engineer | API Architect | MuleSoft • Python • Azure • SQL Server | APIs | Secure, Scalable Data Integrations | CI/CD Automation**
+**Senior Data Engineer | API & Integration Architect | Python • Azure • SQL • Data Pipelines • ETL/ELT • CI/CD | Cloud & API Integrations | Analytics-Ready Architecture**
 <!-- 
 <img align="left" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/> -->
-I specialize in MuleSoft, Python, Azure, and SQL Server, building ETL pipelines, REST APIs, and CI/CD automation that move data reliably and make teams faster.
+I specialize in Python, Azure, MuleSoft, and SQL Server, building data pipelines, ETL/ELT workflows, and RESTful APIs that move data reliably between systems and make it analytics-ready for BI and reporting.
 
-Always learning, always modernizing — from serverless and containerized deployments to open-source analytics stacks that push enterprise data forward.
+My focus is turning complex data landscapes into automated, maintainable, and compliant ecosystems—from ingestion and transformation to orchestration and visualization. I bring hands-on expertise in Azure Data Factory, Microsoft Fabric, Power BI, CI/CD automation, and data modeling that supports performance, governance, and scalability.
+
+Always evolving with the stack: modernizing with containerized deployments, serverless compute, and open-source analytics frameworks to push enterprise data engineering forward.
+
+Core strengths: Data Pipelines • Azure Data Factory • ETL/ELT • Python (Pandas, NumPy) • SQL • Data Modeling • Data Orchestration (Python, Azure Data Factory, SSIS) • CI/CD • Data Governance • Cloud-Native Architecture
 
 ### Mission
 I’m evolving from pipeline builder to strategic architect—designing intelligent data systems that scale with the future. Whether mentoring contributors or refactoring legacy systems, I build with purpose, accessibility, and long-term impact.
