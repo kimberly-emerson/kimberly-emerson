@@ -167,7 +167,8 @@ If you're hiring for backend architecture, data engineering, or integration stra
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SSIS](https://img.shields.io/badge/SQL_Server_Integration_Services-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/)
 [![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-sql/)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-8027B2?logoColor=white&style=for-the-badge)
+[![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-Integration-blue?logo=Microsoft%20Azure)](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-8027B2?logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/fabric/)
 
 </details>
 
