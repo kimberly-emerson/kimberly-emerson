@@ -23,9 +23,9 @@ With 10+ years of experience as a Software Developer I now bring both seasoned d
 
 I am actively seeking opportunities where I can leverage this cross‑domain skill set to design secure pipelines, build scalable APIs, and drive enterprise integration. If your team is looking for someone who combines proven experience with fresh, modernized skills, I’d love to connect.
 
-[![pdf resume](https://img.shields.io/badge/RESUME%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/cv211yh54j6u5nrv54z35/emerson_kimberly.pdf?rlkey=ncob2ga555eettll82qnj2l1s&st=axv7q58i&dl=0)&nbsp;
+[![pdf resume](https://img.shields.io/badge/RESUME%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/ortshqeb3qw54xkx03u4p/emerson_kimberly.pdf?rlkey=2o8q0tlh70q57kki9nq060ovy&st=hj0xkwft&dl=0)&nbsp;
 [![pdf appendix a](https://img.shields.io/badge/APPENDIX%20A%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/tg5ws4rq4v1jp4va26q6k/emerson_kimberly_appendix_a_badges.pdf?rlkey=w1n5ap1gkggivs6zbcgiagr6k&st=2mi705v7&dl=0)&nbsp;
-[![word resume](https://img.shields.io/badge/ATS%20RESUME%20%28word%29-blue?style=for-the-badge&labelColor=blue)](https://www.dropbox.com/scl/fi/hpgrn0kr5z7nkijmwu6ut/emerson_kimberly_ats.docx?rlkey=12emwg7sqnxc0oh7gl790vgwl&st=wid2allo&dl=0)
+[![word resume](https://img.shields.io/badge/ATS%20RESUME%20%28word%29-blue?style=for-the-badge&labelColor=blue)](https://www.dropbox.com/scl/fi/k7zzoaf34t8gsvfv1tk50/emerson_kimberly.docx?rlkey=gl9yp11ux3az6chqj4shx8wep&st=bk9jlt4d&dl=0)
 
 **APPENDIX A:** Certifications and Digital Badges with verification links.
 
@@ -33,7 +33,7 @@ I am actively seeking opportunities where I can leverage this cross‑domain ski
 
 ## 👩‍💻 About Me
 
-**Senior Software Developer | SQL Developer | Full Stack Engineer | Data Engineer | Python & MuleSoft Integration Specialist | Azure | ETL/ELT | CI/CD | Cloud Modernization**
+**Senior Software Developer | SQL Developer | Full Stack Engineer | Backend Engineer | Python & MuleSoft Integration Specialist | Azure | ETL/ELT | CI/CD | Cloud Modernization**
 <!-- 
 <img align="left" width="25%" style="margin: 50px:float: right;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajhlZzdmcmh3d2o1bzJzZjFqeWVuazh4cDVzY3B4aW5qbGhscjc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif"/> -->
 I am a Senior Software Developer with 10+ years of experience across SQL Server, Python, MuleSoft, and full stack ASP.NET development. My expertise spans SQL development, full stack engineering, data pipelines, Python APIs, and MuleSoft integrations, enabling me to deliver scalable, secure, and cloud‑ready solutions.
