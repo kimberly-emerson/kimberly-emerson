@@ -13,10 +13,10 @@
 
 ## Hi, I'm Kimberly Emerson
 
-<strong>Senior SQL & Data Engineer | Integration & Full-Stack Software Developer</strong>  
+<img align="right" width="25%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/><strong>Senior SQL & Data Engineer | Integration & Full-Stack Software Developer</strong>  
 Houston, TX • Open to Houston, TX or Remote USA (Relocation-Supported Roles)
 
-<img align="right" width="25%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/>For the past 10+ years, I’ve helped teams make sense of their data—turning slow, messy, and disconnected backend systems into fast, reliable tools and trusted insights. Throughout my career, I’ve served as the sole technical owner on every project I’ve touched, taking initiatives from stakeholder requirements through database architecture, API development, deployment, and performance tuning.
+For the past 10+ years, I’ve helped teams make sense of their data—turning slow, messy, and disconnected backend systems into fast, reliable tools and trusted insights. Throughout my career, I’ve served as the sole technical owner on every project I’ve touched, taking initiatives from stakeholder requirements through database architecture, API development, deployment, and performance tuning.
 
 [![pdf resume](https://img.shields.io/badge/RESUME%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/ddw25thoib8vees00a3hw/kimberly_emerson.pdf?rlkey=noun2jtlu5fx8ce1lgstomixc&st=mn00mt8x&dl=0)&nbsp;
 [![pdf appendix a](https://img.shields.io/badge/APPENDIX%20A%20%28PDF%29-red?style=for-the-badge&labelColor=red)](https://www.dropbox.com/scl/fi/tg5ws4rq4v1jp4va26q6k/emerson_kimberly_appendix_a_badges.pdf?rlkey=w1n5ap1gkggivs6zbcgiagr6k&st=2mi705v7&dl=0)&nbsp;
