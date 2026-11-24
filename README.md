@@ -13,7 +13,7 @@
 
 ## Hi, I'm Kimberly Emerson
 
-<img align="right" width="25%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtrenhuczFmd3lseTJ6aHBocGhlaTJveWFmbzRhZWdtbm84bmt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wijs4lJT5oHGPDy6oC/giphy.gif"/><strong>Senior SQL & Data Engineer | Integration & Full-Stack Software Developer</strong>  
+<strong>Senior SQL & Data Engineer | Integration & Full-Stack Software Developer</strong>  
 Houston, TX • Open to Houston, TX or Remote USA (Relocation-Supported Roles)
 
 For the past 10+ years, I’ve helped teams make sense of their data—turning slow, messy, and disconnected backend systems into fast, reliable tools and trusted insights. Throughout my career, I’ve served as the sole technical owner on every project I’ve touched, taking initiatives from stakeholder requirements through database architecture, API development, deployment, and performance tuning.
